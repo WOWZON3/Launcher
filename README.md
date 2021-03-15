@@ -1,2 +1,1 @@
-# Launcher
- Game Launcher for Private WoW Server
+<div align="center"><img src="https://raw.githubusercontent.com/WOWZON3/Launcher/main/Launcher.png"></img></div>
